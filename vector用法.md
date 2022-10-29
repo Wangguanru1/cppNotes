@@ -75,7 +75,7 @@ capacity is :5
 
 ## vector算法
 
-```
+```c++
 #include<algorithm>//包含头文件
 
 (1) sort(a.begin(),a.end()); //对a中的从a.begin()（包括它）到a.end()（不包括它）的元素进行从小到大排列
